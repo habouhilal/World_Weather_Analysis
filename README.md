@@ -12,9 +12,18 @@ This step consist of conducting and API search on Google API. For this step we a
 ### Phase 2 
 I Used input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
+<img width="786" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/91625564/142795541-6f392b80-f629-4894-970d-fc8426d171dc.png">
 
 ### Phase 3 
 create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
+
+<img width="993" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/91625564/142795666-d667783a-f1f4-4ee2-a06d-e91091d1b11a.png">
+
+
+Adding info Box for hotel detail on the map :
+
+<img width="1303" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/91625564/142795691-afa427a5-d39b-4835-91b7-b75d9d603305.png">
+
 
 ## Summary 
 Using API search is very interseting to get real live information direct from the API websites. Also very relative because every API utilizes it's own documentation and parameters.
